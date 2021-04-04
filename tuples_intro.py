@@ -4,16 +4,9 @@ budgie = "NightFlight", "Budgie", 1981
 imelda = "More Mayhem", "Emilda May", 2011
 metallica = "Ride the Lightning", "Metallica", 1984
 
-print(metallica)
-
-print(metallica[0])
-print(metallica[1])
-print(metallica[2])
-
-metallica2 = list(metallica)  # tuple to List
-print(metallica2)
-
-metallica2[0] = "Master of Puppets"
-
-metallica3 = tuple(metallica2)
-print(metallica3)
+# print(metallica)
+#
+# print(metallica[0])
+# print(metallica[1])
+# print(metallica[2])
+#
