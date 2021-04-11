@@ -38,5 +38,4 @@ albums = [
      ),
 ]
 for name, artist, year, songs in albums:
-    song_number, song_title = songs
     print("Album: {}, Artist: {}, Year: {}, Songs: {}".format(name, artist, year, songs ))
